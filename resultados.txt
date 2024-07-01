@@ -1,0 +1,12 @@
+Granularidade: 32 valores, Processadores: 1, Tempo Seq: 851ns, Tempo Conc: 41.317µs, Speedup: 0.020597
+Granularidade: 32 valores, Processadores: 2, Tempo Seq: 420ns, Tempo Conc: 44.452µs, Speedup: 0.009448
+Granularidade: 64 valores, Processadores: 1, Tempo Seq: 1.503µs, Tempo Conc: 68.158µs, Speedup: 0.022052
+Granularidade: 64 valores, Processadores: 2, Tempo Seq: 1.552µs, Tempo Conc: 68.468µs, Speedup: 0.022668
+Granularidade: 128 valores, Processadores: 1, Tempo Seq: 2.756µs, Tempo Conc: 106.279µs, Speedup: 0.025932
+Granularidade: 128 valores, Processadores: 2, Tempo Seq: 2.615µs, Tempo Conc: 99.537µs, Speedup: 0.026272
+Granularidade: 256 valores, Processadores: 1, Tempo Seq: 5.84µs, Tempo Conc: 161.612µs, Speedup: 0.036136
+Granularidade: 256 valores, Processadores: 2, Tempo Seq: 4.899µs, Tempo Conc: 117.94µs, Speedup: 0.041538
+Granularidade: 512 valores, Processadores: 1, Tempo Seq: 10.89µs, Tempo Conc: 487.651µs, Speedup: 0.022332
+Granularidade: 512 valores, Processadores: 2, Tempo Seq: 10.971µs, Tempo Conc: 254.753µs, Speedup: 0.043065
+Granularidade: 1024 valores, Processadores: 1, Tempo Seq: 27.231µs, Tempo Conc: 541.401µs, Speedup: 0.050297
+Granularidade: 1024 valores, Processadores: 2, Tempo Seq: 22.522µs, Tempo Conc: 654.512µs, Speedup: 0.034410
